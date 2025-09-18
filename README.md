@@ -1,11 +1,12 @@
 # Hi, Alex here 🤘
-**``Data Scientist``**
+**``Data Analyst``** | **``Data Scientist``**
 
-I'm a **PhD student** at the exciting (and sometimes chaotic) world of research. Here, you'll find a mix of academic projects and experiments, data explorations, and code — some polished, some... well, a work in progress. 😅
+PhD in Sciences, passionate about statistics, data analysis, and data science. 
 
-As I keep refining my skills in ***statistics***, ***machine learning***, ***programming***, and ***data visualization***, I'm excited to use them to make an impact beyond academia.  
+I love exploring data, cleaning and modeling it to uncover insights that matter.
+Here you’ll find projects on **statistics**, **machine learning**, and **data visualization**. Some are ready to go, others are still in progress.  
 
-Stick around and join me on this journey! 🚀  
+Grab a coffee ☕ and enjoy!  
 
 
 <p align="left">
@@ -37,6 +38,14 @@ Stick around and join me on this journey! 🚀
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="DuckDB" 
+    title="DuckDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" 
 />
 <img 
     align="left" 
